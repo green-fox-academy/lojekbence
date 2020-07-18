@@ -1,0 +1,17 @@
+* {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.head {
+    background-color: grey; 
+    background-position: left;
+    margin-left: 0px;
+}
+.posts {
+    border-style: solid;
+    width: 69%;
+}
+#post {
+    width: 69%;
+    height: 69px;
+}
